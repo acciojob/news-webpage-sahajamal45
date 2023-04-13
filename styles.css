@@ -1,5 +1,6 @@
 html{
 	height:1000px;
+	width: auto;
 }
 body{
 	border:0px solid lightgray;
@@ -17,10 +18,13 @@ h5{
 	background-color:#011e29;
 	color:white;
 	text-align:center;
-	padding:12px;
-	margin:5px;
+/* 	padding:0.5px; */
+	margin:2px;
 }
-.container{
+h1{
+	padding: 10px;
+}
+.latest-news-section{
 	display:flex;
 }
 ul{
@@ -44,7 +48,7 @@ p{
 	width:40%;
 	height:40%;
 }
-.image{
+.pictorial-news-section{
 	border:0px solid lightgray;
 	background-color:white;
 	margin:0px;
