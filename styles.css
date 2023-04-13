@@ -21,7 +21,7 @@ h5{
 /* 	padding:0.5px; */
 	margin:2px;
 }
-h1{
+h3{
 	padding: 10px;
 }
 .latest-news-section{
@@ -54,6 +54,7 @@ p{
 	margin:0px;
 	width:30%;
 	border-radius:10px;
+	text-align:center;
 }
 img{
 	flex-direction:column;
