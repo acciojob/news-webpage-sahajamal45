@@ -11,7 +11,7 @@ body{
 div{
 	margin:2px;
 }
-h5{
+h3{
 	text-align:center;
 }
 .nav-bar{
@@ -21,7 +21,7 @@ h5{
 /* 	padding:0.5px; */
 	margin:2px;
 }
-h3{
+h2{
 	padding: 10px;
 }
 .latest-news-section{
